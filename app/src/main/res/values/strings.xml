@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UI_Design</string>
+
+    <string name="ok">OK</string>
+    <string name="canceal">Canceal</string>
+    <string name="more">More</string>
+</resources>
